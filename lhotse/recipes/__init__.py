@@ -4,6 +4,7 @@ from .aishell3 import download_aishell3, prepare_aishell3
 from .aishell4 import download_aishell4, prepare_aishell4
 from .ali_meeting import download_ali_meeting, prepare_ali_meeting
 from .ami import download_ami, prepare_ami
+from .annaspeech import prepare_annaspeech
 from .aspire import prepare_aspire
 from .atcosim import download_atcosim, prepare_atcosim
 from .babel import prepare_single_babel_language
